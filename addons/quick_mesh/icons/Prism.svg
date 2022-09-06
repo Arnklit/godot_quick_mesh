@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Prism.svg"
+   id="svg2126"
+   version="1.1"
+   width="16"
+   viewBox="0 0 16 16"
+   height="16">
+  <metadata
+     id="metadata2132">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2130" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg2126"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="8"
+     inkscape:cx="8"
+     inkscape:zoom="63"
+     showgrid="false"
+     id="namedview2128"
+     inkscape:window-height="1608"
+     inkscape:window-width="2256"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="fill:#fc7f7f;fill-opacity:0.99607843"
+     id="path2124"
+     fill="#ffca5f"
+     d="m3.9168678 1.8860265c-.3598509 1.0771598-1.9743383 5.9072035-2.95075512 8.8641335-.15505871.56144.26297692 1.081021.77506042 1.256186 1.9729807.978051 3.9341568 1.98391 5.9144721 2.944682.5872542.201411 1.0933197-.27019 1.6046594-.478049 1.7521944-.878995 3.5092364-1.748814 5.2583944-2.633556.53543-.305954.598247-1.041459.264856-1.51829-.991782-1.9723689-1.966021-3.9544106-2.968743-5.9207481-.320568-.4259931-.882722-.5397422-1.322158-.8066387-1.7413894-.8632626-4.7187151-2.3492561-5.2199521-2.59935915-.501237-.2501031-.9959833-.18552039-1.3558341.89163945zm1.6236276 1.4766588 4.2114703 2.1046892-2.3703904 7.1132625-4.2114703-2.104688zm5.6257546 4.2135626 1.479141 2.9582811-2.9603737 1.481232z" />
+</svg>
