@@ -1,5 +1,5 @@
 # Quick Mesh
-A Godot plugin to ease creation meshes
+A Godot plugin to ease creation of meshes
 
 [Discord Server](https://discord.gg/mjGvWwQwv2)
 
